@@ -530,10 +530,6 @@ This application can be deployed to:
 
 MIT
 
-## 👨‍💻 Author
-
-Built for Vaiu AI Software Developer Internship Assignment
-
 ## 🙏 Acknowledgments
 
 - Google Gemini for AI capabilities
